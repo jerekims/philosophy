@@ -1,0 +1,43 @@
+a {
+	text-decoration: none;
+}
+#section_content{
+   max-width: 940px;
+   margin: 0 auto;
+   padding: 0 5%;
+}
+#footer{
+  max-width:940px;
+  padding: 0 5%;
+  margin: 0 auto;
+
+}
+#logo{
+	text-align: center;
+	margin: 0px;
+}
+a{
+	color:magenta;
+}
+header{
+	background-color: #6ab47b;
+	border-color: #599a68;
+	border: 2px 2px 2px 2px;
+	
+}
+h1,h4{
+	color:#fff;
+}
+nav{
+	background: #599a68;
+}
+nav a,nav a:visited{
+	color:#fff;
+}
+nav a:hover{
+	color: red;
+}
+body{
+	background-color: 
+	color:#599;
+}
